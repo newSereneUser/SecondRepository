@@ -1,1 +1,3 @@
-Change made by Developer2, edited by Developer1
+Change made by Developer2. 
+Change made by Developer1.
+Changes made to understand .git
